@@ -6,4 +6,6 @@
 
 ## Chapter 1
 
-更多内容：[链接](https://www.yuque.com/qingyunyouxiao/book/vi7w4fvwgf80483f)
+我在 Spring Boot 中使用 Thymeleaf 构建网页。
+
+## Chpater 1.2
